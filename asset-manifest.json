@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/11-use-layout-effect-React/static/css/main.d82ad5ec.css",
+    "main.js": "/11-use-layout-effect-React/static/js/main.c0135bb5.js",
+    "index.html": "/11-use-layout-effect-React/index.html",
+    "main.d82ad5ec.css.map": "/11-use-layout-effect-React/static/css/main.d82ad5ec.css.map",
+    "main.c0135bb5.js.map": "/11-use-layout-effect-React/static/js/main.c0135bb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d82ad5ec.css",
+    "static/js/main.c0135bb5.js"
+  ]
+}
